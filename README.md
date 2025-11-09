@@ -67,7 +67,7 @@ Football-Object-Detection-YOLOv8
 
 ---
 
-## 🧾 Example Output  
+## Example Output  
 
 **Annotations include:**  
 - Green bounding boxes for detected objects.  
